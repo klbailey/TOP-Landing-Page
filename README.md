@@ -1,2 +1,2 @@
 # TOP-Landing-Page
-Create a web page using HTML and CSS
+Create a landing page utilizing Flexbox.
